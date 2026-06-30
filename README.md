@@ -1,4 +1,4 @@
-# prueba_tecnica
+# nodejs_server
 
 API REST construida con **Node.js**, **Express** y **TypeScript**, siguiendo buenas prácticas de desarrollo y arquitectura limpia.
 
